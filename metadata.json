@@ -1,0 +1,6 @@
+{
+  "name": "Vector Field Divergence Visualizer",
+  "description": "An interactive 2D and 3D visualizer of vector fields and their scalar divergence with dynamic overlays, real-time control, and educational presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
